@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diario de un Superviviente - 1918</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', serif;
+            background-color: #f4f1e8;
+            color: #3d2b1f;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+        .highlight {
+            font-style: italic;
+            color: #a52a2a;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Diario de un Superviviente - 1918</h1>
+        <p class="highlight">"La ciudad está en silencio. Las calles, vacías. Solo se escuchan los pasos de los pocos valientes que aún caminan con sus mascarillas de tela..."</p>
+        <p>Hoy es <strong>23 de octubre de 1918</strong>. La fiebre no cesa y los médicos no tienen respuestas. Nos dicen que lavemos nuestras manos, que nos quedemos en casa. Pero el miedo es lo que más nos consume...</p>
+        <p>La gripe llegó a nuestra ciudad hace semanas. Primero fueron los vecinos, luego los amigos, ahora mi propia familia. Hemos cubierto las ventanas con paños húmedos, esperando que el maldito aire no entre...</p>
+        <h2>Elementos esenciales en 1918</h2>
+        <ul>
+            <li><strong>Mascarilla de tela</strong> - Creían que podía detener el virus.</li>
+            <li><strong>Vapores de eucalipto</strong> - Se usaban para limpiar el aire.</li>
+            <li><strong>Lejía y vinagre</strong> - Desinfectantes rudimentarios.</li>
+            <li><strong>Aislamiento</strong> - La única medida efectiva, aunque dolorosa.</li>
+        </ul>
+        <p>El mundo nunca será el mismo después de esto... ¿Lograremos sobrevivir?</p>
+    </div>
+</body>
+</html>
